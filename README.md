@@ -9,7 +9,6 @@ This project provides a graphical user interface (GUI) for you to input the init
 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
-- [How to Use](#how-to-use)
 - [Algorithms](#algorithms)
 - [Demo](#demo)
 
